@@ -1,6 +1,0 @@
-streamlit
-date
-yfinance 
-prophet 
-prophet.plot 
-plotly
